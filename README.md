@@ -8,7 +8,7 @@
 
 Currently, I am a PhD candidate at [UniPi](https://phd-ai-society.di.unipi.it/). I'm working in the field of Artificial Intelligence (AI). 
 
-The main focus of my work is on the Neuro-Symbolic aspect of Artificial Intelligence. As a result, my research focuses in the combination of Deep Learning models with logic-simbolic knowledge. The ultimate goal is to be able to integrate logic into neural systems, transforming them into intelligent agents with reasoning abilities. Furthermore, provide a higher level of trustworthiness, discoverability, and comprehension of such systems. 
+The main focus of my work is on the Neuro-Symbolic aspect of Artificial Intelligence. As a result, my research focuses in the combination of Deep Learning models with logic-symbolic knowledge. The ultimate goal is to be able to integrate logic into neural systems, transforming them into intelligent agents with reasoning abilities. Furthermore, provide a higher level of trustworthiness, discoverability, and comprehension of such systems. 
 
 My main interest is in using Artificial Intelligence to tackle problems with a positive social impact (AI4PEOPLE/AI4GOOD), as well as educational issues (AI4EDUCATION).
 
