@@ -13,6 +13,7 @@ My name is Andrea Rafanelli</h1>
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 <h4><b>Languages and tools that I mostly use:</b></h4>
+
 [<img src='https://user-images.githubusercontent.com/96917595/152839303-3945d867-5edd-4ac7-ad00-512b40cacc6b.svg' alt='Python' height='45'>](https://en.wikipedia.org/wiki/Python_(programming_language))
 [<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/PyTorch-Dark.svg' alt='Torcj' height='40' >](https://en.wikipedia.org/wiki/PyTorch)
 [<img src='https://github.com/tandpfun/skill-icons/blob/main/icons/TensorFlow-Light.svg' alt='bash' height='43' >](https://en.wikipedia.org/wiki/TensorFlow)
