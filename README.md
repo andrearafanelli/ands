@@ -11,7 +11,6 @@ My name is Andrea Rafanelli</h1>
 - 💬 You can contact me on: <a href="https://outlook.office365.com/mail/u/0/?to=andrea.rafanelli%40phd.unipi.it&subject=Hey"> My email</a>
 
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 <h4><b>Languages and tools that I mostly use:</b></h4>
 
 [<img src='https://user-images.githubusercontent.com/96917595/152839303-3945d867-5edd-4ac7-ad00-512b40cacc6b.svg' alt='Python' height='45'>](https://en.wikipedia.org/wiki/Python_(programming_language))
@@ -20,7 +19,7 @@ My name is Andrea Rafanelli</h1>
 [<img src='https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-flat.svg' alt='rust' height='45' >](https://en.wikipedia.org/wiki/RStudio)
 
 
------------------------------------------------------------------------------------------------------------------------------------
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous+color&size=50&duration=3800&pause=1000&color=E1E1E1E1&width=700&height=100&lines=There's+more;Don't+go+yet%2C+" alt="Typing SVG" /></a>
