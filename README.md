@@ -24,15 +24,9 @@ My name is Andrea Rafanelli</h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous+color&size=50&duration=3800&pause=1000&color=E1E1E1E1&width=700&height=100&lines=There's+more;Don't+go+yet%2C+" alt="Typing SVG" /></a>
   
-<details>
-  <summary><i>whispering noise</i></summary>
-  <br/>
   
  ![activity graph](https://activity-graph.herokuapp.com/graph?username=andrearafanelli&custom_title=Andrea's%20activity%20graph&theme=github-light&hide_border=true)
-  <details>
-  <summary><b>My GitHub stats</b></summary>
-  <br/>
-<img align="centre" src="https://github-readme-stats.vercel.app/api?username=andrearafenelli&show_icons=true&theme=gotham" />
+  
                                                                           
                                                                           
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous+color&size=50&duration=3850&pause=600&color=E1E1E1E1&width=700&height=100&lines=Thanks+for+visiting%2C;Have+a+nice+day" alt="Typing SVG" /></a>
