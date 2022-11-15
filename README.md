@@ -20,4 +20,8 @@ My name is Andrea Rafanelli</h1>
 [<img src='https://www.rstudio.com/wp-content/uploads/2018/10/RStudio-Logo-flat.svg' alt='rust' height='45' >](https://en.wikipedia.org/wiki/RStudio)
 
 
+-----------------------------------------------------------------------------------------------------------------------------------
 
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous+color&size=50&duration=3800&pause=1000&color=E1E1E1E1&width=700&height=100&lines=There's+more;Don't+go+yet%2C+" alt="Typing SVG" /></a>
+  
