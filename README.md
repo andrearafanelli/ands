@@ -20,7 +20,7 @@ My name is Andrea Rafanelli</h1>
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-![Snake animation (custom)](https://github.com/andrearafanelli/andrearafanelli/blob/output/github-contribution-grid-snake.svg)
+
   
 
 
